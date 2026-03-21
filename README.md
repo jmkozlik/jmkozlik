@@ -6,7 +6,7 @@
 
 CS & Applied Math @ NJIT · Building autonomous AI agents, multi-agent systems, and privacy-preserving infrastructure.
 <br/>
-[NANDA Protocol](https://github.com/AnotherLens/NANDA) @ MIT Media Lab · [Trainsafe](https://github.com/Jon-Trainsafe) · [Top 2 Finalist @ HackMIT](https://github.com/MediaInfluences/mycelium_1.0)
+[NANDA Protocol](https://github.com/AnotherLens/NANDA) @ MIT Media Lab · [Trainsafe](https://trainsafe.ai) · [Top 2 Finalist @ HackMIT](https://github.com/MediaInfluences/mycelium_1.0)
 
 ---
 
