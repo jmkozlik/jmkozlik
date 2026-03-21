@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="assets/one-must-imagine-ai-agents-happy.png" alt="One Must Imagine AI Agents Happy" width="700"/>
+<img src="assets/one-must-imagine-ai-agents-happy.png" alt="One Must Imagine AI Agents Happy" width="100%"/>
 
 # Jonathan Kozlik
 
 CS & Applied Math @ NJIT · Building autonomous AI agents, multi-agent systems, and privacy-preserving infrastructure.
-
-NANDA Protocol @ MIT Media Lab · Trainsafe · Top 2 Finalist @ HackMIT
+<br/>
+[NANDA Protocol](https://github.com/AnotherLens/NANDA) @ MIT Media Lab · [Trainsafe](https://github.com/Jon-Trainsafe) · [Top 2 Finalist @ HackMIT](https://github.com/MediaInfluences/mycelium_1.0)
 
 ---
 
