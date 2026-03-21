@@ -4,6 +4,6 @@
 
 <br/><br/>
 
-# Media Influences
+# Jonathan Kozlik
 
 </div>
