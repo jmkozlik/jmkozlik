@@ -22,7 +22,7 @@ CS & Applied Math @ NJIT '27 · NSF S-STEM Scholar · Two-time founder
 |---|---|
 | [**macrograd**](https://github.com/jmkozlik/macrograd) | Matrix autograd engine in pure Python — no NumPy, no PyTorch. Hand-derived backward passes, gradients verified against finite differences to ~3e-10, Graphviz rendering of the live computation graph. |
 | [**NANDA**](https://projectnanda.org) @ MIT Media Lab | Core developer on the "Internet of AI Agents" (Prof. Ramesh Raskar's group) — built the DNS-style registry for independent MCP servers and its trust layer: coupon-based ownership verification cut spam registrations ~70%. Spoke on MCP security at the MIT Decentralized AI Conference 2024. |
-| **Constitutional Multi-Agent Stack** | A constitutionally governed agent organization I run my real dev work through — core law compiled into 14 agent role charters, executor agents in isolated git worktrees, adversarial verifiers, and an append-only audit ledger. Private for now; writeup coming. |
+| [**constitutional-agent-stack**](https://github.com/jmkozlik/constitutional-agent-stack) | A working constitutional government for AI agents — core law compiled into 12 agent charters, executors in isolated git worktrees, adversarial refuters, and an append-only governance ledger. The machinery is open source; the production vault it governs stays private. Writeup coming. |
 | [**Decentralized AI for Multi-Entity Training**](https://github.com/jmkozlik/mycelium_1.0) | Track runner-up @ HackMIT 2024 (1,000+ hackers) — federated-learning MVP for banks and hospitals with zero raw-data exchange. Grew into Encryptech AI ($50K non-dilutive grant, 1 of 5 teams in Codebase by Avalanche S2). |
 
 ---
