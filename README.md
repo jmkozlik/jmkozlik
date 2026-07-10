@@ -20,9 +20,9 @@ CS & Applied Math @ NJIT '27 · NSF S-STEM Scholar · Two-time founder
 
 | | |
 |---|---|
+| [**constitutional-agent-stack**](https://github.com/jmkozlik/constitutional-agent-stack) | A working constitutional government for AI agents — core law compiled into 12 agent charters, executors in isolated git worktrees, adversarial refuters, and an append-only governance ledger. The machinery is open source; the production vault it governs stays private. Writeup coming. |
 | [**macrograd**](https://github.com/jmkozlik/macrograd) | Matrix autograd engine in pure Python — no NumPy, no PyTorch. Hand-derived backward passes, gradients verified against finite differences to ~3e-10, Graphviz rendering of the live computation graph. |
 | [**NANDA**](https://projectnanda.org) @ MIT Media Lab | Core developer on the "Internet of AI Agents" (Prof. Ramesh Raskar's group) — built the DNS-style registry for independent MCP servers and its trust layer: coupon-based ownership verification cut spam registrations ~70%. Spoke on MCP security at the MIT Decentralized AI Conference 2024. |
-| [**constitutional-agent-stack**](https://github.com/jmkozlik/constitutional-agent-stack) | A working constitutional government for AI agents — core law compiled into 12 agent charters, executors in isolated git worktrees, adversarial refuters, and an append-only governance ledger. The machinery is open source; the production vault it governs stays private. Writeup coming. |
 | [**Decentralized AI for Multi-Entity Training**](https://github.com/jmkozlik/mycelium_1.0) | Track runner-up @ HackMIT 2024 (1,000+ hackers) — federated-learning MVP for banks and hospitals with zero raw-data exchange. Grew into Encryptech AI ($50K non-dilutive grant, 1 of 5 teams in Codebase by Avalanche S2). |
 
 ---
@@ -33,6 +33,6 @@ CS & Applied Math @ NJIT '27 · NSF S-STEM Scholar · Two-time founder
 
 [![Website](https://img.shields.io/badge/app.selfsell.ai-2E5943?style=flat-square)](https://app.selfsell.ai)&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jkozlik/)&nbsp;&nbsp;
-[![X](https://img.shields.io/badge/@D1__Founder-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/D1_Founder)
+[![X](https://img.shields.io/badge/@jmkozlik-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/jmkozlik)
 
 </div>
